@@ -1,15 +1,14 @@
-.main-article {
-  font-size: 60px;
-  border: blue 5px solid;
-  color: darkviolet;
-}
-.article-header {
-  font-size: 30px;
-  border: inherit;
-}
-.article-content {
- font-size: initial;
- }
-.article-link{
-  color:inherit;
+.img {
+  /* box-sizing: border-box; */
+  width: 350px;
+  /* height: 300px; */
+  border: dashed rgb(26, 94, 196);
+  border-top-width: 2px;
+  border-right-style: dotted;
+  border-left-width: 7px;
+
+  border-bottom-color:sandybrown;
+  
+  padding: 10px 15px 5px 40px;
+  margin: 30px;
 }
