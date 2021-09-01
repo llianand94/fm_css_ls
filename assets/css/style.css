@@ -1,29 +1,15 @@
-.main-header {
-  font-family: 'Allison', cursive;
-  text-align: center;
-  text-transform: capitalize;
-  color: #f0000078;
+.main-article {
+  font-size: 60px;
+  border: blue 5px solid;
+  color: darkviolet;
 }
-.art-header {
-  text-transform: capitalize;
-  font-style: italic;
-  color: mediumpurple;
-  font-size: 26px;
-  block-size: 27px;
+.article-header {
+  font-size: 30px;
+  border: inherit;
 }
-.art-header + p {
-  
-  font-size: 17px;
-  font-weight: normal;
-  font-family: 'Kaisei Tokumin', serif;
-  text-align: justify;
-    line-height: 1.2em;
-}
-.page-link {
-  text-decoration: line-through 2px wavy red;
-  cursor:context-menu;
-}
-.aline-center{
-  text-align: center;
-  font-size: 10px;
+.article-content {
+ font-size: initial;
+ }
+.article-link{
+  color:inherit;
 }
